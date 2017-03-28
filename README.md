@@ -2,7 +2,7 @@
 
 ## **Responsável** ##
 
-**Nome:** Sidney Oliveira Lima de Santana
-**Curso:** Análise e Desenvolvimento de Sistemas
-**Disciplina:** Arquitetura e Projeto de Sistemas
+**Nome:** Sidney Oliveira Lima de Santana<br>
+**Curso:** Análise e Desenvolvimento de Sistemas<br>
+**Disciplina:** Arquitetura e Projeto de Sistemas<br>
 **RA:** 1520052
