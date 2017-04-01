@@ -1,0 +1,6 @@
+Exercicio 2
+
+Cenários Chaves
+
+1 - Entrada de Serviços
+2 - Geração de Relatórios

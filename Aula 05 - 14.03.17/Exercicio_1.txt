@@ -1,0 +1,18 @@
+Exercicio 1
+
+O que utilizar para começar adefinir a arquitetura?
+
+Casos de uso - Sim
+
+Descrição dos cenários - Sim
+
+Requisitos funcionais - Sim
+
+Requisitos não-funcionais (incluindo atributos de qualidade, tais como
+performance, segurança, confiabilidade etc.) - Sim
+
+Requisitos tecnológicos - Sim
+
+Ambiente de implantação - Sim
+
+Outras restrições - Sim
